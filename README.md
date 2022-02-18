@@ -2,7 +2,7 @@
 - 👀 I’m interested in pentesting 
 - 🌱 I’m currently learning offensive security  
 - 💞️ I’m looking to collaborate on ...
-- 📫 l.behind564@gmail.com
+- 📫 lbehind564@gmail.com
 
 <!---
 LoggerBehind/LoggerBehind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
